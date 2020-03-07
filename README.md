@@ -11,7 +11,6 @@ The KnightsTours function gets the knight starting position, and returns a suita
 
 ![Time to solution](time.png)
 
-<br/><br/>
 
 ### License
 :copyright: Hana Oliver
