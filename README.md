@@ -6,3 +6,7 @@ The knight should cover the entire board in 63 steps - It should step on each sq
 Could you find the right path?
 
 The KnightsTours function gets the knight starting position, and returns a suitable square of steps, in ~0.00002 seconds!
+
+![An example](example.png)
+
+![Time to solution](time.png)
