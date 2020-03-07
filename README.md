@@ -10,3 +10,10 @@ The KnightsTours function gets the knight starting position, and returns a suita
 ![An example](example.png)
 
 ![Time to solution](time.png)
+
+<br/><br/>
+
+### License
+:copyright: Hana Oliver
+
+:email: [Contact me](mailto:hana.benami@gmail.com)
